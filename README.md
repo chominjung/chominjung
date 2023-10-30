@@ -1,4 +1,4 @@
-### Hi there 👋
+### click my portfolio 👋
 
 <!--
 **chominjung/chominjung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
